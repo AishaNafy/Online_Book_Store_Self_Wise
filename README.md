@@ -26,7 +26,7 @@ A web-based admin dashboard for **Self Wise**, an online bookstore, allowing adm
 
 ## 🛠️ Tech Stack
 - **Backend:** Java (Servlets, JSP)  
-- **Frontend:** HHTML · CSS · JavaScript · Bootstrap
+- **Frontend:** HTML · CSS · JavaScript · Bootstrap
 - **DataBase:** MySQL 
 - **TServer:** Apache Tomcat
 
