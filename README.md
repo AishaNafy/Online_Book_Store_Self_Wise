@@ -1,65 +1,70 @@
-Self Wise Admin Dashboard
+# 📑 Self Wise Admin Dashboard
 
-A web-based admin dashboard for Self Wise, an online bookstore, allowing admins to manage products efficiently, add new products, and view existing ones. The platform provides an intuitive interface for selecting and organizing products with ease.
+A web-based admin dashboard for **Self Wise**, an online bookstore, allowing admins to manage products efficiently, add new products, and view existing ones. The platform provides an intuitive interface for selecting and organizing products with ease. 
 
-🚀 Features
-🛒 Product Management
+---
 
-Add new products with details: title, author, category, price, and stock quantity.
+## 🚀 Features
+- Product Management
+    - Add new products with details: title, author, category, price, and
+      stock quantity.
+    - Upload product images for each book.
+    - Edit or remove existing products.
+    - Categorize products for easier browsing.
+ 
+- Product Viewing
+    - View all products in a structured table or card layou
+    - Search, filter, and sort products by category, price, or availability.
+    - Quick access to product details for updates or deletions.
+   
+- Admin Controls
+    - Secure admin login for authorized access.
+    - Dashboard overview showing total products and categories.
+    - Notifications for low-stock products.
 
-Upload product images for each book.
+---
 
-Edit or remove existing products.
+## 🛠️ Tech Stack
+- **Backend:** Java (Servlets, JSP)  
+- **Frontend:** HHTML · CSS · JavaScript · Bootstrap
+- **DataBase:** MySQL 
+- **TServer:** Apache Tomcat
 
-Categorize products for easier browsing.
+---
 
-📋 Product Viewing
+## 📊 Reports
+- Automatically generated **interactive reports** via the dashboard.  
+- Interactive product lists and dashboards.
+- Overview of stock availability and category-wise distribution.
+- Exportable CSV/Excel reports for offline use.
+- Downloadable in **HTML format** for offline use.  
 
-View all products in a structured table or card layout.
+---
 
-Search, filter, and sort products by category, price, or availability.
+## 📂 Project Status
+- ✅ **Admin DasbOA Dashboard** – Completed and deployed  
+- 🔄 **Product Search & Filtering** – In progress  
 
-Quick access to product details for updates or deletions.
+---
 
-👤 Admin Controls
+## 📌 Roadmap / Future Enhancements
+- Role-based access control for multiple admin users.
+- Analytics dashboard: top-selling books, revenue tracking.
+- Real-time stock update notifications.  
+- Exportable **PDF/CSV reports**.  
+- User authentication with saved report history.  
 
-Secure login for admin access.
+---
 
-Dashboard overview of total products and categories.
+## 🌐 Demo
+https://drive.google.com/file/d/1OXqjfIN3-BjvNFci0R-b9wL0eglLN9qo/view
 
-Notifications for low-stock products.
+---
 
-🛠️ Tech Stack
+## 👩🏻‍💻 Author
+Developed by **[Aisha Nafy](www.linkedin.com/in/aisha-nafy)**  
+Undergraduate CInformation Technology Student | SLIIT  
 
-Backend: Java (Servlets, JSP)
 
-Frontend: HTML · CSS · JavaScript · Bootstrap
 
-Database: MySQL
-
-Server: Apache Tomcat
-
-📂 Project Status
-
-✅ Admin Dashboard – Completed and fully functional
-
-🔄 Product Search & Filtering – In progress
-
-📌 Roadmap / Future Enhancements
-
-Integration with a shopping cart system for user orders.
-
-Role-based access control for multiple admins.
-
-Analytics dashboard: top-selling books, revenue tracking.
-
-Real-time stock update notifications.
-
-🌐 Live Demo
-
-(Add link to your deployed project if available)
-
-👨‍💻 Author
-
-Developed by [Your Name]
-Undergraduate Software Engineering Student | SLIIT
+---
