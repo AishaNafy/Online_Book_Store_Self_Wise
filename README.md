@@ -62,7 +62,7 @@ https://drive.google.com/file/d/1OXqjfIN3-BjvNFci0R-b9wL0eglLN9qo/view
 ---
 
 ## 👩🏻‍💻 Author
-Developed by **[Aisha Nafy](www.linkedin.com/in/aisha-nafy)**  
+Developed by **[Aisha_Nafy](https://www.linkedin.com/in/aisha-nafy/)**   
 Undergraduate Information Technology Student | SLIIT  
 
 
