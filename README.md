@@ -1,7 +1,7 @@
 # 📑 Self Wise Admin Dashboard
 
 <p align="center">
-  <img src="OopAddBook/src/main/webapp/logo.png" width="350">
+  <img src="OopAddBook/src/main/webapp/logo.png" width="250">
 </p>
 
 A web-based admin dashboard for **Self Wise**, an online bookstore, allowing admins to manage products efficiently, add new products, and view existing ones. The platform provides an intuitive interface for selecting and organizing products with ease. 
